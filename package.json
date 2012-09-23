@@ -1,7 +1,7 @@
 {
   "name" : "node-hydra",
   "private": true,
-  "description" : "Demo HTTP hook frontend for MongoDB as a Message Bus",
+  "description" : "better multi-cpu for node.js",
   "version" : "0.0.1",
   "author" : "Van Nguyen <thegoleffect@gmail.com>",
   "repository" : "git://github.com/thegoleffect/hydra",
